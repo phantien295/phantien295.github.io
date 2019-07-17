@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" href="{{ "/assets/image/favicon.png" | absolute_url }}">
+        <link rel="stylesheet" type="text/css" href="{{ "/assets/css/bootstrap.min.css" | absolute_url }}">
+        <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/fontawesome/css/all.css" | absolute_url }}">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="{{ "/assets/css/main.css" | absolute_url }}">
+    </head>
+    <body>
+        <!-- Navigation -->
+        <nav class="navbar fixed-top navbar-light bg-light navbar-shadow justify-content-end">
+            <div class="navbar-brand">
+                <i class="fas fa-quote-left text-color"></i>  Tekweblog  <i class="fas fa-quote-right text-color"></i>
+            </div>
+        </nav>
+        <!-- Content -->
+        <div class="container">
+            <div class="row">
+                <div class="col col-sm-9">
+                    {{ content }}
+                </div>
+                <div class="col col-sm-3">
+                    <!-- Right Menu -->
+                    <ul class="list-group menu">
+                        <li class="list-group-item menu-header"><i class="fas fa-th-list margin-right-07"></i>Category</li>
+                        {% for category in site.category %}
+                        <a class="list-group-item" href="{{ category.url }}">
+                            <i class="fas fa-paw menu-icon"></i>{{ category.name }}
+                        </a>
+                        {% endfor %}
+                    </ul>
+                    <hr class="hr-custom">
+                    <div>icon here!!!</div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <div class="footer">
+            <hr class="hr-custom">
+            <div class="text-center"><i class="fab fa-pagelines fa-flip-horizontal text-color"></i><b>  tekweblog@gmail.com </b><i class="fab fa-pagelines text-color"></i></div>
+        </div>
+    </body>
+</html>
