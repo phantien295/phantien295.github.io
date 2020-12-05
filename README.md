@@ -18,3 +18,9 @@ Error message:
 system is booting up. see pam_nologin(8)
 Solution:
 `rm /run/nologin`
+
+```
+bundle update jekyll
+
+bundle exec jekyll serve --livereload
+```
