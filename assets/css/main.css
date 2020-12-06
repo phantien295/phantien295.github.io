@@ -9,6 +9,10 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+p {
+    line-height: 1.7;
+}
+
 .navbar-shadow {
     box-shadow: 0 14px 20px -12px rgba(0,0,0,0.2);
 }
