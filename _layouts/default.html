@@ -8,20 +8,22 @@
         <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/fontawesome/css/all.css" | absolute_url }}">
         <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="{{ "/assets/css/main.css" | absolute_url }}">
+        <link rel="stylesheet" type="text/css" href="{{ "/assets/scss/style.css" | absolute_url }}">
     </head>
     <body>
         <!-- Navigation -->
         <nav class="navbar fixed-top navbar-light bg-light navbar-shadow justify-content-end">
             <div class="navbar-brand">
-                <i class="fas fa-quote-left text-color"></i>  Tekweblog  <i class="fas fa-quote-right text-color"></i>
+                <i class="fas fa-quote-left text-color"></i>  Code by Heart  <i class="fas fa-quote-right text-color"></i>
             </div>
         </nav>
         <!-- Content -->
         <div class="container">
             <div class="row">
-                <div class="col col-sm-9">
+                <div class="col col-sm-12">
                     {{ content }}
                 </div>
+                {% comment %}
                 <div class="col col-sm-3">
                     <!-- Right Menu -->
                     <ul class="list-group menu">
@@ -35,6 +37,7 @@
                     <hr class="hr-custom">
                     <div>icon here!!!</div>
                 </div>
+                {% endcomment %}
             </div>
         </div>
         <!-- Footer -->

@@ -1,5 +1,5 @@
 ---
 name: Java
-title: Java category - Tekweblog
+title: Java
 ---
-Java category
+Java list
