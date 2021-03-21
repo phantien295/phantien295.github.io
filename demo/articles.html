@@ -1,0 +1,154 @@
+<html>
+  <head>
+    <title>Demo Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <!-- Page Overlay -->
+    <div id="pageOverlay" onclick="closeNav()"></div>
+    <!-- Page Overlay -->
+
+    <div id="sideNavigation" class="side-nav">
+      <a href="javascript:void(0)" class="close-btn" onclick="closeNav()"
+        >&times;</a
+      >
+      <a href="#">Trang chủ</a>
+      <a href="#">Tin tức</a>
+      <a href="#">Video</a>
+
+      <div class="bottom">
+        <span class="mr-5"><i class="fa fa-phone mr-2"></i>0912345678</span>
+        <span><i class="fa fa-envelope-o mr-2"></i>test@gmail.com</span>
+      </div>
+    </div>
+    <div id="mainContent" class="container">
+      <!-- Begin Page Header -->
+      <div id="pageHeader" class="d-none d-sm-flex">
+        <div class="mr-5"><i class="fa fa-phone mr-2"></i>0912345678</div>
+        <div><i class="fa fa-envelope-o mr-2"></i>test@gmail.com</div>
+      </div>
+      <!-- End Page Header -->
+
+      <!-- Begin NavBar -->
+      <div class="pos-f-t d-block d-sm-none">
+        <nav class="navbar navbar-light bg-light fixed-top">
+          <button
+            class="navbar-toggler border-none"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarToggleExternalContent"
+            aria-controls="navbarToggleExternalContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            onclick="openNav()"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </nav>
+      </div>
+
+      <div id="navBarWrapper" class="d-none d-sm-flex">
+        <ul id="navBar">
+          <!-- <li>
+            <img src="imgs/logo.png" />
+          </li> -->
+          <li><a href="/index.html">Trang chủ</a></li>
+          <li><a href="#news">Tin tức</a></li>
+          <li class="dropdown">
+            <a href="javascript:void(0)">Video</a>
+            <div class="dropdown-content">
+              <a href="#">Thể loại 1</a>
+              <a href="#">Thể loại 2</a>
+              <a href="#">Thể loại 3</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!-- End NavBar -->
+
+      <!-- <span onclick="openNav()">open</span> -->
+      <!-- Image Header -->
+      <div class="d-block d-sm-none mt-5"></div>
+      <!-- Main section -->
+      <div id="mainSection" class="container">
+        <div class="row mt-5">
+          <div class="col col-12 col-md-10">
+            <div class="row article-wrapper">
+              <div
+                class="col col-12 col-sm-2 article-img"
+                style="background-image: url(imgs/pika.jpg)"
+              ></div>
+              <div class="col col-12 col-sm-10 article-detail">
+                <div class="article-detail-title">
+                  <a href="#">Test title</a>
+                </div>
+                <div class="article-detail-date">Ngày đăng: 2021/03/01</div>
+                <div class="article-detail-content">
+                  Có rất nhiều những bài học tươi đẹp, chấn động và những bài
+                  học làm thay đổi cả cuộc đời, những câu nói được đọc mà tôi đã
+                  tiếp thu từ đạo Bụt. Ngày hôm nay, tôi muốn chia sẻ 25 bài học
+                  tươi đẹp đó đến các bạn.
+                </div>
+              </div>
+            </div>
+            <div class="row article-wrapper">
+              <div
+                class="col col-12 col-sm-2 article-img"
+                style="background-image: url(imgs/pika.jpg)"
+              ></div>
+              <div class="col col-12 col-sm-10 article-detail">
+                <div class="article-detail-title">
+                  <a href="#">Test title</a>
+                </div>
+                <div class="article-detail-date">Ngày đăng: 2021/03/01</div>
+                <div class="article-detail-content">
+                  Có rất nhiều những bài học tươi đẹp, chấn động và những bài
+                  học làm thay đổi cả cuộc đời, những câu nói được đọc mà tôi đã
+                  tiếp thu từ đạo Bụt. Ngày hôm nay, tôi muốn chia sẻ 25 bài học
+                  tươi đẹp đó đến các bạn.
+                </div>
+              </div>
+            </div>
+            <div class="row article-wrapper">
+              <div
+                class="col col-12 col-sm-2 article-img"
+                style="background-image: url(imgs/pika.jpg)"
+              ></div>
+              <div class="col col-12 col-sm-10 article-detail">
+                <div class="article-detail-title">
+                  <a href="#">Test title</a>
+                </div>
+                <div class="article-detail-date">Ngày đăng: 2021/03/01</div>
+                <div class="article-detail-content">
+                  Mây và sương phủ kín khắp nơi mênh mông bát ngát. Mây che mờ
+                  tất cả quá khứ hiện tại và cảnh chợ dưới núi, nơi đó chứa đầy
+                  những bon chen ảo tưởng của lòng người. Ở trên núi, tất cả
+                  những bản năng giành giựt xâu xé đều trở về chốn hư không.
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col col-12 col-md-2 d-none d-md-block">
+            <div class="adv-wrapper">
+              <div class="adv">
+                <img src="imgs/adv.jpg" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="page-footer">Copyright © 2021</div>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
