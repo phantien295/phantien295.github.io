@@ -3,6 +3,7 @@ layout: post
 title: JavaScript
 category: Blog
 ---
+
 #### JavaScript
 
 ##### Class
@@ -10,8 +11,9 @@ category: Blog
 ##### Object
 
 Có thể tạo một empty object
+
 ```js
-    var obj = Object.create(null);
+var obj = Object.create(null);
 ```
 
 Hầu hết các object là instance của Object.
@@ -21,10 +23,10 @@ Hầu hết các object là instance của Object.
 Kiểm tra prototype của một object:
 
 ```js
-    Object.getPrototypeOf(obj);
-    // obj.__proto__ is deprecated
+Object.getPrototypeOf(obj);
+// obj.__proto__ is deprecated
 
-    // Object.getPrototypeOf(new Foobar()) refers to the same object as Foobar.prototype
+// Object.getPrototypeOf(new Foobar()) refers to the same object as Foobar.prototype
 ```
 
 Mỗi object sẽ có một prototype object để thừa kế các methods và properties.
@@ -58,5 +60,84 @@ Khi sử dụng delete person1.`__proto__`.farewell cũng sẽ tự động remo
 
 Notes:
 
-+ Function is a type of object.
-+ Object.prototype định nghĩa những thành phần cho phép các object khác kế thừa. `__proto__` sẽ trỏ đến prototype object của đối tượng hiện tại.
+- Function is a type of object.
+- Object.prototype định nghĩa những thành phần cho phép các object khác kế thừa. `__proto__` sẽ trỏ đến prototype object của đối tượng hiện tại.
+
+<hr class="divide-line" />
+
+#### String
+
+```js
+/* repeat */
+"a".repeat(3); // "aaa"
+```
+
+<hr class="divide-line" />
+
+#### Array
+
+```js
+/* fill */
+[0, 0, 0].fill(1); // [1, 1, 1]
+[(0, 0, 0)].fill(1, 0, 1); // [1, 0, 0]
+[(0, 0, 0)].fill(1, 1); // [0, 1, 1]
+
+/* entries */
+["a", "b"].entries(); // iterator [0, "a"], [1, "b"]
+
+Array.from().map();
+```
+
+#### Map, Set, WeakMap, WeakSet
+
+```js
+/* Set
+ * Không chứa phần tử trùng
+ * Không báo lỗi nếu add vào phần tử đã trùng
+ *
+ */
+let s = new Set();
+s.add("a").add("b");
+s.size;
+s.has("a");
+[...s]; // ["a", "b"]
+[...new Set(["a", "b", "a"])];
+
+for (let item of mySet1) console.log(item);
+for (let item of mySet1.keys()) console.log(item);
+for (let item of mySet1.values()) console.log(item);
+for (let [key, value] of mySet1.entries()) console.log(key);
+
+WeakSet chỉ chứa object, không thể get size, chỉ có add, delete và has
+
+let m = new Map();
+m.set("a", 1);
+m.get("a");
+```
+
+#### Babel polyfill
+
+#### Notes
+
+- So sánh với chuỗi true, false: value === "true", value === "false"
+
+#### Tips
+
+- Remove empty strings with Boolean constructor
+
+```js
+["a", "", "b", "c"].filter(Boolean); //  ["a", "b", "c"]
+```
+
+```js
+let arr = [{ id: 1 }, { id: 2 }, { id: 1 }, { id: 4 }];
+let tmp = [];
+arr.forEach((e, index) => (tmp[e.id] = e));
+arr.filter(Boolean);
+
+let m = new Map();
+arr.forEach((e, index) => m.set(e.id, e));
+[...m.values()];
+
+check index trong array phụ nếu không có thì add vào
+```
