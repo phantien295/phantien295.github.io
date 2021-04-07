@@ -12,6 +12,41 @@
         <link rel="stylesheet" type="text/css" href="{{ "/assets/scss/style.css" | absolute_url }}">
     </head>
     <body>
+        <!-- Side options -->
+        <div class="side-options">
+            <div class="side-options-container">
+                <a class="side-options-item">
+                    <div class="side-options-item-container">
+                        <i class="fa fa-share-alt" aria-hidden="true"></i>
+                    </div>
+                    <div class="side-options-item-hover">Demo 111</div>
+                </a>
+                <a class="side-options-item">
+                    <div class="side-options-item-container">
+                        <i class="fa fa-search-plus" aria-hidden="true"></i>
+                    </div>
+                    <div class="side-options-item-hover">Demo 123</div>
+                </a>
+                <a class="side-options-item">
+                    <div class="side-options-item-container">
+                        <i class="fa fa-sign-language" aria-hidden="true"></i>
+                    </div>
+                    <div class="side-options-item-hover">Demo 12345 Demo 12345 Demo 12345</div>
+                </a>
+                <a class="side-options-item" href="/category/js">
+                    <div class="side-options-item-container">
+                        <i class="fab fa-js" aria-hidden="true"></i>
+                    </div>
+                    <div class="side-options-item-hover">Tổng hợp linh tinh về Javascript</div>
+                </a>
+                <a class="side-options-item" href="/category/blog">
+                    <div class="side-options-item-container">
+                        <i class="fa fa-book" aria-hidden="true"></i>
+                    </div>
+                    <div class="side-options-item-hover">Blog</div>
+                </a>
+            </div>
+        </div>
         <!-- Navigation -->
         <nav class="navbar fixed-top navbar-light bg-light navbar-shadow justify-content-end">
             <div class="navbar-brand">
@@ -20,9 +55,14 @@
         </nav>
         <!-- Content -->
         <div class="container">
-            <div class="row">
-                <div class="col col-sm-12">
+            <div class="row d-flex justify-content-center">
+                <div class="col col-sm-12 col-md-10">
                     {{ content }}
+                    <!-- Footer -->
+                    <div class="footer">
+                        <hr class="hr-custom">
+                        <div class="text-center"><i class="fab fa-pagelines fa-flip-horizontal text-color"></i><b>  phantien295@gmail.com </b><i class="fab fa-pagelines text-color"></i></div>
+                    </div>
                 </div>
                 {% comment %}
                 <div class="col col-sm-3">
@@ -43,11 +83,6 @@
             <div class="footer-bar">
                 <!-- <a href="/category/blog.html">Blog</a> | <a href="/category/java.html">Java</a> -->
             </div>
-        </div>
-        <!-- Footer -->
-        <div class="footer">
-            <hr class="hr-custom">
-            <div class="text-center"><i class="fab fa-pagelines fa-flip-horizontal text-color"></i><b>  phantien295@gmail.com </b><i class="fab fa-pagelines text-color"></i></div>
         </div>
         <script src="{{ "/assets/js/prism.js" | absolute_url }}"></script>
     </body>
