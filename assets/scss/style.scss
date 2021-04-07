@@ -3,14 +3,21 @@
 ---
 $green-color: #02c39a;
 
+.text--green {
+    color: $green-color;
+}
+
 .post-list {
     display: block;
 
     .post-item {
         height: 50px;
         line-height: 50px;
-        border-bottom: 1px dotted #2c2c2c;
-        padding-left: 10px;
+        border: 1px solid #ccc;
+        border-left: 10px solid $green-color;
+        padding-left: 20px;
+        margin-top: 5px;
+        margin-bottom: 5px;
 
         a {
             color: #02c39a;
@@ -63,7 +70,15 @@ $green-color: #02c39a;
 
 h4,
 h5 {
+    color: $green-color;
     font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    padding: 10px;
+    border-left: 5px solid $green-color;
 }
 
 .side-options {
