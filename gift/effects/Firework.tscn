@@ -52,5 +52,8 @@ autostart = true
 
 [node name="Tween2" type="Tween" parent="."]
 
+[node name="Particles2D" type="Particles2D" parent="."]
+visible = false
+
 [connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
 [connection signal="tween_completed" from="Tween" to="." method="_on_Tween_tween_completed"]

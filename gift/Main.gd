@@ -12,7 +12,8 @@ func _process(delta: float) -> void:
 	$Count.text = '%d/%d' % [loader.get_stage(), loader.get_stage_count()]
 
 func _input(event: InputEvent) -> void:
-	if Input.is_mouse_button_pressed(BUTTON_LEFT):
+	# Set false to prevent left mouse is clicked
+	if Input.is_mouse_button_pressed(BUTTON_LEFT) && false:
 		var firework = FIREWORK.instance()
 		firework.position = get_global_mouse_position()
 		add_child(firework)

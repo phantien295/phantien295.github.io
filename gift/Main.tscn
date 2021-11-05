@@ -172,13 +172,13 @@ mode = 2
 position = Vector2( 384.833, 271.92 )
 scale = Vector2( 3, 3 )
 frames = SubResource( 9 )
-frame = 2
 playing = true
 
 [node name="Eevee" type="AnimatedSprite" parent="."]
 position = Vector2( 641.3, 282.222 )
 scale = Vector2( 3, 3 )
 frames = SubResource( 12 )
+frame = 1
 playing = true
 
 [node name="BirthdayCake" type="AnimatedSprite" parent="."]
