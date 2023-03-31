@@ -4,6 +4,14 @@ title: Javascript
 category: Blog
 ---
 
+- window là object root, global object
+- screen (window.screen): chứa các thông tin vật lý của màn hình (ví dụ như kích thước)
+- document (window.document): chứa DOM (Document Object Model)
+
+API = DOM + JavaScript
+
+
+
 ##### Promise
 
 Promise chain:

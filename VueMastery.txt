@@ -1,0 +1,326 @@
+VueMastery
+==========
+Created Chủ nhật 25 Tháng 4 2021
+
+https://player.vimeo.com/video/471197070?autoplay=1&app_id=122963
+https://player.vimeo.com/video/471197070?autoplay=1&app_id=122963
+https://player.vimeo.com/video/471553156?autoplay=1&app_id=122963
+https://player.vimeo.com/video/475248686?autoplay=1&app_id=122963
+https://player.vimeo.com/video/482846883?autoplay=1&app_id=122963
+
+
+https://player.vimeo.com/video/489490162
+
+##### Build a trello clone
+https://github.com/Code-Pop/watch-us-build-trello/releases/tag/application-start
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/327844370">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/329214344">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/331459804">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/332476395">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/332695521">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/334001031">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/335300449">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/335301632">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/336403919">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/336411746">
+
+# Component design patterns
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/394725602">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/394498766">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/399734836">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/409867593">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/424213580">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/431605455">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/437260447">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/441489357">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/448610522">
+
+# Gmail clone:
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/417686205">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/418119086">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/424719912">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/432334269">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/432334539">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/432334746">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/435917211">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/435925588">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/439008950">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/439009520">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/441251067">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/441252800">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/449574598">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/449582938">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/450616466">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/455342339">
+
+# Next Level Vue 2
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/299718108">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/297619886">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/298208305">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/299962821">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/300838968">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/302513491">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/304941787">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/306582689">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/307592723">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/308504709">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/311076056">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/312320460">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/315508073">
+
+# Testing Vue 3
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/510489703">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/514104358">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/514106269">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/514344677">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/518376232">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/518384316">
+
+# Testing Vue 2
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/385713441">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/387189765">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/391719920">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/398001031">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/404668293">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/414881728">
+
+# Vuex Fundamental
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/515894346">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/529759116">
+
+#Mastering Vuex
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/297516469">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/299290718">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/296998483">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/297183312">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/297215375">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/294957628">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/296095457">
+
+# Real World Vue 3
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/462853296">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/462876299">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/470251780">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/472810738">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/477765119">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/488382833">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/490917120">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/494544547">
+
+# Real World Testing
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/530491857">
+
+# From Vue 2 to Vue 3
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/424215562">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/425339512">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/427585737">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/433041737">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/438959871">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/442885410">
+
+# Vue 3 Reactivity
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/388752844">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/388759486">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/392347730">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/400699168">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/397194972">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/397197076">
+
+# Vue 3 Composition API
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/364111799">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/364140610">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/365085315">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/365099441">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/365160899">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/365352006">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/372753110">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/372755942">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/375785689">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/420508038">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/424955491">
+
+# Advanced Components
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/263589430">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/264113772">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/276288371">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/264184004">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/276302877">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/265079382">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/277359426">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/265359995">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/277362944">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/266460791">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/266460791">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/266460791">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/277714650">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/272766967">
+
+# Vue 3 Deep Dive with Evan You
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/413320671">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/413172106">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410406205">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410199064">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410256224">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410291443">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410676185">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410680764">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410687425">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410711530">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410715243">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/410722048">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/411046002">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/411053073">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/411057133">
+
+# Vue 3 + Typescript
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/467481375">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/473662632">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/473998588">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/486226307">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/492858617">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/501230219">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/505794251">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/510916818">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/516377523">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/519596515">
+
+# Animating Vue
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/351308397">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/353909159">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/358710484">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/361550074">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/367390374">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/372000380">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/375052563">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/379804181">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/380155578">
+
+# Touring Vue Router
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/471197070">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/471553156">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/475248686">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/482846883">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/489490162">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/498189741">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/503618233">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/510430996">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/522434741">
+ Lazy Loading Routes
+
+# Token Based Authentication
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/322541550">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/327559707">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/328952884">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/331308258">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/336662859">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/340259889">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/345127910">
+
+# Vue 3 Forms
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/457363869">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/458419816">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/459058559">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/467985438">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/478759502">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/480558076">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/493121878">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/505012138">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/517344724">
+
+# Scaling Vue with Nuxt.js
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/311756540">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/314572866">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/316653566">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/317105776">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/320633290">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/324333004">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/325496815">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/333888973">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/337883799">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/343242377">
+
+# Beautify with Vuetify
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/346032810">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/350501837">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/353308521">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/357089986">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/359661975">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/362841967">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/368669029">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/378430249">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/380861996">
+
+# Intro to Vue 2
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/258707456">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/258874670">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/300867455">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/258889657">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/259211539">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/259233921">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/259937361">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/263051367">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/263911367">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/264692706">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/267299472">
+
+# Intro to Vue 3
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/429439600">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/430513164">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/430892048">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/432257268">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/436245555">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/436573740">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/437484985">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/440157813">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/440514041">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/441165140">
+<meta data-v-6a6fe114="" itemprop="embedURL" content="https://player.vimeo.com/video/442485891">
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
