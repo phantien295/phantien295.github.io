@@ -25,9 +25,9 @@ jobs:
         run: npm install -g yarn
       - name: Run a multi-line script
         run: |
-          yarn,
-          yarn build,
-          yarn deploy.
+          yarn
+          yarn build
+          yarn deploy
   deploy:
     environment:
       name: github-pages
