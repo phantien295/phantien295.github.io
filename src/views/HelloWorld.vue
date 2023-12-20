@@ -14,6 +14,15 @@
       <carousel :slides="slides" />
     </div>
     <div>Lorem Picsum: https://picsum.photos</div>
+    <div
+      @click="
+        () => {
+          router.push('/posts/p');
+        }
+      "
+    >
+      Next
+    </div>
     <img
       class="absolute left-[-1px] bottom-[10px] w-[450px] z-[-1]"
       :src="bgSvg"
@@ -30,8 +39,11 @@ import {
   readonly,
   inject,
 } from "vue";
+import { useRouter } from "vue-router";
 import OpenAI from "openai";
 import axios from "axios";
+
+const router = useRouter();
 
 import bgSvg from "@/assets/bg.svg";
 import carousel from "@/components/carousel/Carousel.vue";
