@@ -8,7 +8,7 @@
       <div class="rounded-full w-[200px] h-[200px] overflow-hidden">
         <img src="@/assets/avatar.jpeg" class="scale-[160%]" />
       </div>
-      <div class="text-2xl font-bold">
+      <div class="text-2xl font-bold text-center">
         TIEN PHAN<br />(ファン・ミン・ティエン)
       </div>
       <carousel :slides="slides" />
